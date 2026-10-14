@@ -40,7 +40,7 @@ smartcart-clustering/
 ├── clustering_model.py          # Main ML pipeline script / Jupyter Notebook
 ├── requirements.txt             # Python dependencies
 └── README.md                    # Project documentation
-
+```
 
 ## ⚙️ Getting Started & Installation
 
