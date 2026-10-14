@@ -40,3 +40,11 @@ smartcart-clustering/
 ├── clustering_model.py          # Main ML pipeline script / Jupyter Notebook
 ├── requirements.txt             # Python dependencies
 └── README.md                    # Project documentation
+
+
+## ⚙️ Getting Started & Installation
+
+1. **Clone the repository:**
+   ```bash
+   git clone [https://github.com/Shivam5760/Smart_cart_clustering_system.git](https://github.com/Shivam5760/Smart_cart_clustering_system.git)
+   cd Smart_cart_clustering_system
