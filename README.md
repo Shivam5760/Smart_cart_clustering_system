@@ -45,6 +45,6 @@ smartcart-clustering/
 ## ⚙️ Getting Started & Installation
 
 1. **Clone the repository:**
-   ```bash
+
    git clone [https://github.com/Shivam5760/Smart_cart_clustering_system.git](https://github.com/Shivam5760/Smart_cart_clustering_system.git)
    cd Smart_cart_clustering_system
